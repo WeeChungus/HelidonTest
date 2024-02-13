@@ -110,7 +110,7 @@
 		<dependency>
 			<groupId>one.microstream</groupId>
 			<artifactId>microstream-enterprise-cluster-nodelibrary-helidon</artifactId>
-			<version>1.1.0-SNAPSHOT</version>
+			<version>${microstream.nodelibrary.version}</version>
 		</dependency>
 		<dependency>
 			<groupId>one.microstream</groupId>
